@@ -1,4 +1,5 @@
-# app
+# IP Tracking app
+Vue.js, Tailwindcss & Leaflet.js
 
 ## Project setup
 ```
